@@ -1,0 +1,21 @@
+{
+  "name": "mazad-game",
+  "version": "1.0.0",
+  "description": "Mazad Game - online two-player auction game",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "node tests/room.test.js && node tests/cards.test.js && node tests/misc.test.js && node tests/socketHandlers.test.js",
+    "images": "node scripts/fetch-images.js",
+    "images:anime": "node scripts/fetch-anime-images.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
