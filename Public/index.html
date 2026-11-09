@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1020">
+  <title>مزاد game</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="logo">🔨 مزاد <span>game</span></div>
+    <div id="conn" class="conn off" title="حالة الاتصال"></div>
+  </header>
+
+  <main>
+    <!-- الشاشة الرئيسية -->
+    <section id="view-home" class="view active">
+      <div class="panel hero">
+        <h1>مزاد اللاعبين</h1>
+        <p class="muted">تنافس مع صديقك على البطاقات، وكوّن أقوى فريق من 5 بطاقات.</p>
+
+        <label class="lbl" for="nameInput">اسمك</label>
+        <input id="nameInput" type="text" maxlength="20" autocomplete="off" placeholder="اكتب اسمك">
+
+        <div class="lbl">نوع المزاد</div>
+        <div class="types">
+          <button type="button" class="type-btn" data-type="football"><span>⚽</span>كرة القدم<small>35 لاعب</small></button>
+          <button type="button" class="type-btn" data-type="anime"><span>🎌</span>الأنمي<small>40 شخصية</small></button>
+        </div>
+
+        <button id="btnCreate" class="btn primary" type="button">إنشاء غرفة</button>
+
+        <div class="divider"><span>أو</span></div>
+
+        <label class="lbl" for="codeInput">انضم بالرمز</label>
+        <div class="row">
+          <input id="codeInput" type="text" maxlength="5" autocomplete="off" dir="ltr" placeholder="ABCDE" class="code-input">
+          <button id="btnJoin" class="btn" type="button">انضمام</button>
+        </div>
+        <p id="homeError" class="error hidden"></p>
+      </div>
+    </section>
+
+    <!-- غرفة الانتظار -->
+    <section id="view-lobby" class="view">
+      <div class="panel hero">
+        <div class="muted">رمز الغرفة</div>
+        <div id="lobbyCode" class="big-code" dir="ltr">-----</div>
+        <button id="btnCopy" class="btn small" type="button">نسخ الرمز</button>
+        <p id="lobbyType" class="muted"></p>
+        <div id="lobbyPlayers" class="lobby-players"></div>
+        <button id="btnStart" class="btn primary" type="button">ابدأ المزاد</button>
+        <p id="lobbyHint" class="muted"></p>
+        <button id="btnLeaveLobby" class="btn ghost" type="button">خروج</button>
+      </div>
+    </section>
+
+    <!-- شاشة المزاد -->
+    <section id="view-auction" class="view">
+      <div class="auction">
+        <div class="main">
+          <div id="progress" class="progress-line"></div>
+          <div class="stage-wrap">
+            <div id="stage" class="stage"></div>
+            <div id="resultBanner" class="result hidden"></div>
+          </div>
+          <div class="timer">
+            <div class="bar"><i id="timerBar"></i></div>
+            <span id="timerText">--</span>
+          </div>
+          <div id="highBid" class="highbid"></div>
+          <div class="bid-controls panel">
+            <button id="btnBidMin" class="btn primary" type="button">زايد</button>
+            <div class="chips">
+              <button class="chip" type="button" data-add="10"></button>
+              <button class="chip" type="button" data-add="25"></button>
+              <button class="chip" type="button" data-add="50"></button>
+            </div>
+            <div class="row">
+              <input id="bidInput" type="number" inputmode="numeric" min="1" step="1" placeholder="مبلغ آخر">
+              <button id="btnBidCustom" class="btn" type="button">زايد</button>
+            </div>
+            <p id="bidHint" class="muted"></p>
+          </div>
+        </div>
+        <aside class="side">
+          <div id="teams"></div>
+          <div class="panel">
+            <h3>سجل المزايدات</h3>
+            <ul id="log" class="log"></ul>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- الجلسة اتفتحت في تبويب تاني -->
+    <section id="view-replaced" class="view">
+      <div class="panel hero">
+        <h1>الغرفة مفتوحة في تبويب آخر</h1>
+        <p class="muted">اللعبة بتشتغل في تبويب واحد بس لكل لاعب.</p>
+        <button id="btnTakeover" class="btn primary" type="button">استخدم هذا التبويب</button>
+      </div>
+    </section>
+
+    <!-- النتيجة النهائية -->
+    <section id="view-final" class="view">
+      <div class="panel hero">
+        <div id="finalBanner" class="final-banner"></div>
+      </div>
+      <div id="finalTeams" class="final-teams"></div>
+      <div class="center"><button id="btnAgain" class="btn primary" type="button">العب مرة أخرى</button></div>
+    </section>
+  </main>
+
+  <div id="toast" class="toast"></div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
