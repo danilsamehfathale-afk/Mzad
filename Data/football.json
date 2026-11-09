@@ -1,0 +1,353 @@
+[
+  {
+    "id": "f01",
+    "nameAr": "ليونيل ميسي",
+    "nameEn": "Lionel Messi",
+    "position": "مهاجم",
+    "country": "الأرجنتين",
+    "rating": 96,
+    "info": "قاد الأرجنتين للفوز بكأس العالم 2022",
+    "image": "images/football/f01.svg"
+  },
+  {
+    "id": "f02",
+    "nameAr": "كريستيانو رونالدو",
+    "nameEn": "Cristiano Ronaldo",
+    "position": "مهاجم",
+    "country": "البرتغال",
+    "rating": 94,
+    "info": "من أغزر الهدافين في تاريخ اللعبة",
+    "image": "images/football/f02.svg"
+  },
+  {
+    "id": "f03",
+    "nameAr": "نيمار",
+    "nameEn": "Neymar Jr",
+    "position": "جناح",
+    "country": "البرازيل",
+    "rating": 89,
+    "info": "مراوغ موهوب ومبدع في الثلث الأخير",
+    "image": "images/football/f03.svg"
+  },
+  {
+    "id": "f04",
+    "nameAr": "كيليان مبابي",
+    "nameEn": "Kylian Mbappé",
+    "position": "مهاجم",
+    "country": "فرنسا",
+    "rating": 94,
+    "info": "سرعة هائلة وبطل كأس العالم 2018",
+    "image": "images/football/f04.svg"
+  },
+  {
+    "id": "f05",
+    "nameAr": "إيرلينغ هالاند",
+    "nameEn": "Erling Haaland",
+    "position": "مهاجم",
+    "country": "النرويج",
+    "rating": 93,
+    "info": "مهاجم قوي وهداف من الطراز الأول",
+    "image": "images/football/f05.svg"
+  },
+  {
+    "id": "f06",
+    "nameAr": "محمد صلاح",
+    "nameEn": "Mohamed Salah",
+    "position": "جناح",
+    "country": "مصر",
+    "rating": 91,
+    "info": "من أبرز نجوم الكرة العربية والأفريقية",
+    "image": "images/football/f06.svg"
+  },
+  {
+    "id": "f07",
+    "nameAr": "كيفين دي بروين",
+    "nameEn": "Kevin De Bruyne",
+    "position": "وسط",
+    "country": "بلجيكا",
+    "rating": 91,
+    "info": "صانع ألعاب بتمريرات حاسمة",
+    "image": "images/football/f07.svg"
+  },
+  {
+    "id": "f08",
+    "nameAr": "لوكا مودريتش",
+    "nameEn": "Luka Modrić",
+    "position": "وسط",
+    "country": "كرواتيا",
+    "rating": 87,
+    "info": "فاز بالكرة الذهبية 2018",
+    "image": "images/football/f08.svg"
+  },
+  {
+    "id": "f09",
+    "nameAr": "كريم بنزيما",
+    "nameEn": "Karim Benzema",
+    "position": "مهاجم",
+    "country": "فرنسا",
+    "rating": 89,
+    "info": "فاز بالكرة الذهبية 2022",
+    "image": "images/football/f09.svg"
+  },
+  {
+    "id": "f10",
+    "nameAr": "روبرت ليفاندوفسكي",
+    "nameEn": "Robert Lewandowski",
+    "position": "مهاجم",
+    "country": "بولندا",
+    "rating": 90,
+    "info": "قناص أهداف بارع داخل المنطقة",
+    "image": "images/football/f10.svg"
+  },
+  {
+    "id": "f11",
+    "nameAr": "هاري كين",
+    "nameEn": "Harry Kane",
+    "position": "مهاجم",
+    "country": "إنجلترا",
+    "rating": 90,
+    "info": "مهاجم متكامل وقائد منتخب إنجلترا",
+    "image": "images/football/f11.svg"
+  },
+  {
+    "id": "f12",
+    "nameAr": "فينيسيوس جونيور",
+    "nameEn": "Vinícius Júnior",
+    "position": "جناح",
+    "country": "البرازيل",
+    "rating": 91,
+    "info": "جناح سريع ومراوغ",
+    "image": "images/football/f12.svg"
+  },
+  {
+    "id": "f13",
+    "nameAr": "جود بيلينغهام",
+    "nameEn": "Jude Bellingham",
+    "position": "وسط",
+    "country": "إنجلترا",
+    "rating": 90,
+    "info": "لاعب وسط شاب بحضور قوي",
+    "image": "images/football/f13.svg"
+  },
+  {
+    "id": "f14",
+    "nameAr": "بيدري",
+    "nameEn": "Pedri",
+    "position": "وسط",
+    "country": "إسبانيا",
+    "rating": 87,
+    "info": "وسط موهوب بتحكم رائع في الإيقاع",
+    "image": "images/football/f14.svg"
+  },
+  {
+    "id": "f15",
+    "nameAr": "رودري",
+    "nameEn": "Rodri",
+    "position": "وسط دفاعي",
+    "country": "إسبانيا",
+    "rating": 91,
+    "info": "محور ارتكاز يتحكم في إيقاع الفريق",
+    "image": "images/football/f15.svg",
+    "wiki": "Rodri_(footballer,_born_1996)"
+  },
+  {
+    "id": "f16",
+    "nameAr": "بوكايو ساكا",
+    "nameEn": "Bukayo Saka",
+    "position": "جناح",
+    "country": "إنجلترا",
+    "rating": 88,
+    "info": "جناح نشيط وصانع فرص",
+    "image": "images/football/f16.svg"
+  },
+  {
+    "id": "f17",
+    "nameAr": "سون هيونغ مين",
+    "nameEn": "Son Heung-min",
+    "position": "جناح",
+    "country": "كوريا الجنوبية",
+    "rating": 87,
+    "info": "سرعة وتسديد بالقدمين",
+    "image": "images/football/f17.svg"
+  },
+  {
+    "id": "f18",
+    "nameAr": "فيرجيل فان دايك",
+    "nameEn": "Virgil van Dijk",
+    "position": "مدافع",
+    "country": "هولندا",
+    "rating": 89,
+    "info": "قلب دفاع قوي وقائد",
+    "image": "images/football/f18.svg"
+  },
+  {
+    "id": "f19",
+    "nameAr": "أليسون بيكر",
+    "nameEn": "Alisson Becker",
+    "position": "حارس مرمى",
+    "country": "البرازيل",
+    "rating": 89,
+    "info": "حارس هادئ ودقيق في التوزيع",
+    "image": "images/football/f19.svg"
+  },
+  {
+    "id": "f20",
+    "nameAr": "تيبو كورتوا",
+    "nameEn": "Thibaut Courtois",
+    "position": "حارس مرمى",
+    "country": "بلجيكا",
+    "rating": 90,
+    "info": "حارس طويل وصاحب تصديات حاسمة",
+    "image": "images/football/f20.svg"
+  },
+  {
+    "id": "f21",
+    "nameAr": "مانويل نوير",
+    "nameEn": "Manuel Neuer",
+    "position": "حارس مرمى",
+    "country": "ألمانيا",
+    "rating": 87,
+    "info": "حارس عصري يلعب بقدميه",
+    "image": "images/football/f21.svg"
+  },
+  {
+    "id": "f22",
+    "nameAr": "توني كروس",
+    "nameEn": "Toni Kroos",
+    "position": "وسط",
+    "country": "ألمانيا",
+    "rating": 88,
+    "info": "تمريرات دقيقة وهدوء تحت الضغط",
+    "image": "images/football/f22.svg"
+  },
+  {
+    "id": "f23",
+    "nameAr": "أنطوان غريزمان",
+    "nameEn": "Antoine Griezmann",
+    "position": "مهاجم",
+    "country": "فرنسا",
+    "rating": 87,
+    "info": "لاعب متعدد المهام هجومًا ودفاعًا",
+    "image": "images/football/f23.svg"
+  },
+  {
+    "id": "f24",
+    "nameAr": "لاوتارو مارتينيز",
+    "nameEn": "Lautaro Martínez",
+    "position": "مهاجم",
+    "country": "الأرجنتين",
+    "rating": 88,
+    "info": "مهاجم شرس وهداف",
+    "image": "images/football/f24.svg"
+  },
+  {
+    "id": "f25",
+    "nameAr": "فيل فودن",
+    "nameEn": "Phil Foden",
+    "position": "جناح",
+    "country": "إنجلترا",
+    "rating": 88,
+    "info": "موهبة فنية وسط ضيق المساحات",
+    "image": "images/football/f25.svg"
+  },
+  {
+    "id": "f26",
+    "nameAr": "فيدريكو فالفيردي",
+    "nameEn": "Federico Valverde",
+    "position": "وسط",
+    "country": "أوروغواي",
+    "rating": 88,
+    "info": "وسط شامل بقدرة بدنية عالية",
+    "image": "images/football/f26.svg"
+  },
+  {
+    "id": "f27",
+    "nameAr": "جمال موسيالا",
+    "nameEn": "Jamal Musiala",
+    "position": "وسط",
+    "country": "ألمانيا",
+    "rating": 87,
+    "info": "مراوغ ذكي في المساحات الضيقة",
+    "image": "images/football/f27.svg"
+  },
+  {
+    "id": "f28",
+    "nameAr": "لامين يامال",
+    "nameEn": "Lamine Yamal",
+    "position": "جناح",
+    "country": "إسبانيا",
+    "rating": 87,
+    "info": "موهبة شابة استثنائية",
+    "image": "images/football/f28.svg"
+  },
+  {
+    "id": "f29",
+    "nameAr": "سيرجيو راموس",
+    "nameEn": "Sergio Ramos",
+    "position": "مدافع",
+    "country": "إسبانيا",
+    "rating": 85,
+    "info": "مدافع قائد وصاحب أهداف حاسمة",
+    "image": "images/football/f29.svg"
+  },
+  {
+    "id": "f30",
+    "nameAr": "كاسيميرو",
+    "nameEn": "Casemiro",
+    "position": "وسط دفاعي",
+    "country": "البرازيل",
+    "rating": 85,
+    "info": "قاطع كرات قوي",
+    "image": "images/football/f30.svg"
+  },
+  {
+    "id": "f31",
+    "nameAr": "روبن دياس",
+    "nameEn": "Rúben Dias",
+    "position": "مدافع",
+    "country": "البرتغال",
+    "rating": 89,
+    "info": "مدافع صلب وقائد للخط الخلفي",
+    "image": "images/football/f31.svg"
+  },
+  {
+    "id": "f32",
+    "nameAr": "أشرف حكيمي",
+    "nameEn": "Achraf Hakimi",
+    "position": "ظهير",
+    "country": "المغرب",
+    "rating": 86,
+    "info": "ظهير سريع ومساند للهجوم",
+    "image": "images/football/f32.svg"
+  },
+  {
+    "id": "f33",
+    "nameAr": "ترينت ألكسندر أرنولد",
+    "nameEn": "Trent Alexander-Arnold",
+    "position": "ظهير",
+    "country": "إنجلترا",
+    "rating": 86,
+    "info": "ظهير بتمريرات طويلة وعرضيات مميزة",
+    "image": "images/football/f33.svg"
+  },
+  {
+    "id": "f34",
+    "nameAr": "زين الدين زيدان",
+    "nameEn": "Zinedine Zidane",
+    "position": "وسط",
+    "country": "فرنسا",
+    "rating": 95,
+    "info": "أسطورة بطل كأس العالم 1998",
+    "image": "images/football/f34.svg"
+  },
+  {
+    "id": "f35",
+    "nameAr": "دييغو مارادونا",
+    "nameEn": "Diego Maradona",
+    "position": "مهاجم",
+    "country": "الأرجنتين",
+    "rating": 95,
+    "info": "أسطورة بطل كأس العالم 1986",
+    "image": "images/football/f35.svg"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "a01",
+    "nameAr": "مونكي دي لوفي",
+    "nameEn": "Monkey D. Luffy",
+    "series": "onepiece",
+    "seriesAr": "ون بيس",
+    "rating": 95,
+    "info": "قبطان طاقم قبعة القش وحالم بلقب ملك القراصنة",
+    "image": "images/anime/a01.svg"
+  },
+  {
+    "id": "a02",
+    "nameAr": "رورونوا زورو",
+    "nameEn": "Roronoa Zoro",
+    "series": "onepiece",
+    "seriesAr": "ون بيس",
+    "rating": 93,
+    "info": "سيّاف يقاتل بثلاثة سيوف",
+    "image": "images/anime/a02.svg"
+  },
+  {
+    "id": "a03",
+    "nameAr": "سانجي",
+    "nameEn": "Sanji",
+    "series": "onepiece",
+    "seriesAr": "ون بيس",
+    "rating": 90,
+    "info": "طباخ الطاقم ومقاتل بالأرجل",
+    "image": "images/anime/a03.svg"
+  },
+  {
+    "id": "a04",
+    "nameAr": "نامي",
+    "nameEn": "Nami",
+    "series": "onepiece",
+    "seriesAr": "ون بيس",
+    "rating": 82,
+    "info": "ملاحة الطاقم وخبيرة الخرائط والطقس",
+    "image": "images/anime/a04.svg"
+  },
+  {
+    "id": "a05",
+    "nameAr": "بورتغاس دي إيس",
+    "nameEn": "Portgas D. Ace",
+    "series": "onepiece",
+    "seriesAr": "ون بيس",
+    "rating": 88,
+    "info": "صاحب قوة النار وأخو لوفي",
+    "image": "images/anime/a05.svg"
+  },
+  {
+    "id": "a06",
+    "nameAr": "شانكس",
+    "nameEn": "Shanks",
+    "series": "onepiece",
+    "seriesAr": "ون بيس",
+    "rating": 94,
+    "info": "قرصان قوي ذو شخصية هادئة",
+    "image": "images/anime/a06.svg"
+  },
+  {
+    "id": "a07",
+    "nameAr": "ترافالغار لو",
+    "nameEn": "Trafalgar Law",
+    "series": "onepiece",
+    "seriesAr": "ون بيس",
+    "rating": 89,
+    "info": "جرّاح الموت وصاحب قدرة الغرفة",
+    "image": "images/anime/a07.svg"
+  },
+  {
+    "id": "a08",
+    "nameAr": "ناروتو أوزوماكي",
+    "nameEn": "Naruto Uzumaki",
+    "series": "naruto",
+    "seriesAr": "ناروتو",
+    "rating": 95,
+    "info": "نينجا يحلم بأن يصبح الهوكاجي",
+    "image": "images/anime/a08.svg"
+  },
+  {
+    "id": "a09",
+    "nameAr": "ساسكي أوتشيها",
+    "nameEn": "Sasuke Uchiha",
+    "series": "naruto",
+    "seriesAr": "ناروتو",
+    "rating": 94,
+    "info": "نينجا موهوب من عشيرة أوتشيها",
+    "image": "images/anime/a09.svg"
+  },
+  {
+    "id": "a10",
+    "nameAr": "كاكاشي هاتاكي",
+    "nameEn": "Kakashi Hatake",
+    "series": "naruto",
+    "seriesAr": "ناروتو",
+    "rating": 91,
+    "info": "النينجا المقلّد ومعلم الفريق السابع",
+    "image": "images/anime/a10.svg"
+  },
+  {
+    "id": "a11",
+    "nameAr": "إيتاتشي أوتشيها",
+    "nameEn": "Itachi Uchiha",
+    "series": "naruto",
+    "seriesAr": "ناروتو",
+    "rating": 93,
+    "info": "عبقري من عشيرة أوتشيها",
+    "image": "images/anime/a11.svg"
+  },
+  {
+    "id": "a12",
+    "nameAr": "مادارا أوتشيها",
+    "nameEn": "Madara Uchiha",
+    "series": "naruto",
+    "seriesAr": "ناروتو",
+    "rating": 96,
+    "info": "أحد أقوى محاربي عشيرة أوتشيها",
+    "image": "images/anime/a12.svg"
+  },
+  {
+    "id": "a13",
+    "nameAr": "ميناتو نامكازي",
+    "nameEn": "Minato Namikaze",
+    "series": "naruto",
+    "seriesAr": "ناروتو",
+    "rating": 92,
+    "info": "الهوكاجي الرابع والبرق الأصفر",
+    "image": "images/anime/a13.svg"
+  },
+  {
+    "id": "a14",
+    "nameAr": "جيرايا",
+    "nameEn": "Jiraiya",
+    "series": "naruto",
+    "seriesAr": "ناروتو",
+    "rating": 88,
+    "info": "أحد النينجا الثلاثة الأسطوريين",
+    "image": "images/anime/a14.svg"
+  },
+  {
+    "id": "a15",
+    "nameAr": "إيرين ييغر",
+    "nameEn": "Eren Yeager",
+    "series": "aot",
+    "seriesAr": "هجوم العمالقة",
+    "rating": 93,
+    "info": "بطل القصة وصاحب قوة التحول",
+    "image": "images/anime/a15.svg"
+  },
+  {
+    "id": "a16",
+    "nameAr": "ميكاسا أكرمان",
+    "nameEn": "Mikasa Ackerman",
+    "series": "aot",
+    "seriesAr": "هجوم العمالقة",
+    "rating": 92,
+    "info": "مقاتلة ماهرة ومخلصة لإيرين",
+    "image": "images/anime/a16.svg"
+  },
+  {
+    "id": "a17",
+    "nameAr": "ليفاي أكرمان",
+    "nameEn": "Levi Ackerman",
+    "series": "aot",
+    "seriesAr": "هجوم العمالقة",
+    "rating": 95,
+    "info": "أقوى جندي في البشرية",
+    "image": "images/anime/a17.svg"
+  },
+  {
+    "id": "a18",
+    "nameAr": "أرمين أرلرت",
+    "nameEn": "Armin Arlert",
+    "series": "aot",
+    "seriesAr": "هجوم العمالقة",
+    "rating": 82,
+    "info": "عقل استراتيجي ذكي",
+    "image": "images/anime/a18.svg"
+  },
+  {
+    "id": "a19",
+    "nameAr": "إروين سميث",
+    "nameEn": "Erwin Smith",
+    "series": "aot",
+    "seriesAr": "هجوم العمالقة",
+    "rating": 85,
+    "info": "قائد فيلق الاستطلاع",
+    "image": "images/anime/a19.svg"
+  },
+  {
+    "id": "a20",
+    "nameAr": "راينر براون",
+    "nameEn": "Reiner Braun",
+    "series": "aot",
+    "seriesAr": "هجوم العمالقة",
+    "rating": 84,
+    "info": "المحارب صاحب العملاق المدرّع",
+    "image": "images/anime/a20.svg"
+  },
+  {
+    "id": "a21",
+    "nameAr": "آني ليونهارت",
+    "nameEn": "Annie Leonhart",
+    "series": "aot",
+    "seriesAr": "هجوم العمالقة",
+    "rating": 83,
+    "info": "مقاتلة ماهرة وصاحبة العملاق الأنثى",
+    "image": "images/anime/a21.svg"
+  },
+  {
+    "id": "a22",
+    "nameAr": "ساتورو غوجو",
+    "nameEn": "Satoru Gojo",
+    "series": "jjk",
+    "seriesAr": "جوجوتسو كايسن",
+    "rating": 97,
+    "info": "أقوى ساحر في العالم",
+    "image": "images/anime/a22.svg"
+  },
+  {
+    "id": "a23",
+    "nameAr": "يوجي إيتادوري",
+    "nameEn": "Yuji Itadori",
+    "series": "jjk",
+    "seriesAr": "جوجوتسو كايسن",
+    "rating": 88,
+    "info": "طالب بقوة بدنية خارقة",
+    "image": "images/anime/a23.svg"
+  },
+  {
+    "id": "a24",
+    "nameAr": "ريومن سوكونا",
+    "nameEn": "Ryomen Sukuna",
+    "series": "jjk",
+    "seriesAr": "جوجوتسو كايسن",
+    "rating": 98,
+    "info": "ملك اللعنات",
+    "image": "images/anime/a24.svg"
+  },
+  {
+    "id": "a25",
+    "nameAr": "ميغومي فوشيغورو",
+    "nameEn": "Megumi Fushiguro",
+    "series": "jjk",
+    "seriesAr": "جوجوتسو كايسن",
+    "rating": 86,
+    "info": "ساحر يستدعي الشيكيغامي",
+    "image": "images/anime/a25.svg"
+  },
+  {
+    "id": "a26",
+    "nameAr": "نوبارا كوغيساكي",
+    "nameEn": "Nobara Kugisaki",
+    "series": "jjk",
+    "seriesAr": "جوجوتسو كايسن",
+    "rating": 80,
+    "info": "ساحرة تستخدم المطرقة والمسامير",
+    "image": "images/anime/a26.svg"
+  },
+  {
+    "id": "a27",
+    "nameAr": "كينتو نانامي",
+    "nameEn": "Kento Nanami",
+    "series": "jjk",
+    "seriesAr": "جوجوتسو كايسن",
+    "rating": 87,
+    "info": "ساحر منضبط من الدرجة الأولى",
+    "image": "images/anime/a27.svg"
+  },
+  {
+    "id": "a28",
+    "nameAr": "توجي فوشيغورو",
+    "nameEn": "Toji Fushiguro",
+    "series": "jjk",
+    "seriesAr": "جوجوتسو كايسن",
+    "rating": 91,
+    "info": "مقاتل بدني بلا طاقة لعنة",
+    "image": "images/anime/a28.svg"
+  },
+  {
+    "id": "a29",
+    "nameAr": "تانجيرو كامادو",
+    "nameEn": "Tanjiro Kamado",
+    "series": "demonslayer",
+    "seriesAr": "قاتل الشياطين",
+    "rating": 88,
+    "info": "صياد شياطين طيب القلب",
+    "image": "images/anime/a29.svg"
+  },
+  {
+    "id": "a30",
+    "nameAr": "نيزوكو كامادو",
+    "nameEn": "Nezuko Kamado",
+    "series": "demonslayer",
+    "seriesAr": "قاتل الشياطين",
+    "rating": 85,
+    "info": "أخت تانجيرو التي تحولت إلى شيطانة",
+    "image": "images/anime/a30.svg"
+  },
+  {
+    "id": "a31",
+    "nameAr": "زينيتسو أغاتسوما",
+    "nameEn": "Zenitsu Agatsuma",
+    "series": "demonslayer",
+    "seriesAr": "قاتل الشياطين",
+    "rating": 84,
+    "info": "مقاتل سريع كالبرق",
+    "image": "images/anime/a31.svg"
+  },
+  {
+    "id": "a32",
+    "nameAr": "إينوسكي هاشيبيرا",
+    "nameEn": "Inosuke Hashibira",
+    "series": "demonslayer",
+    "seriesAr": "قاتل الشياطين",
+    "rating": 83,
+    "info": "مقاتل شرس بسيفين",
+    "image": "images/anime/a32.svg"
+  },
+  {
+    "id": "a33",
+    "nameAr": "كيوجورو رنغوكو",
+    "nameEn": "Kyojuro Rengoku",
+    "series": "demonslayer",
+    "seriesAr": "قاتل الشياطين",
+    "rating": 90,
+    "info": "عمود اللهب",
+    "image": "images/anime/a33.svg"
+  },
+  {
+    "id": "a34",
+    "nameAr": "غيو تومييوكا",
+    "nameEn": "Giyu Tomioka",
+    "series": "demonslayer",
+    "seriesAr": "قاتل الشياطين",
+    "rating": 89,
+    "info": "عمود الماء",
+    "image": "images/anime/a34.svg"
+  },
+  {
+    "id": "a35",
+    "nameAr": "آستا",
+    "nameEn": "Asta",
+    "series": "blackclover",
+    "seriesAr": "بلاك كلوفر",
+    "rating": 89,
+    "info": "فتى بلا سحر يقاتل بسيوف مضادة للسحر",
+    "image": "images/anime/a35.svg"
+  },
+  {
+    "id": "a36",
+    "nameAr": "يونو",
+    "nameEn": "Yuno",
+    "series": "blackclover",
+    "seriesAr": "بلاك كلوفر",
+    "rating": 90,
+    "info": "موهبة سحرية كبيرة وصديق آستا",
+    "image": "images/anime/a36.svg"
+  },
+  {
+    "id": "a37",
+    "nameAr": "نويل سيلفا",
+    "nameEn": "Noelle Silva",
+    "series": "blackclover",
+    "seriesAr": "بلاك كلوفر",
+    "rating": 83,
+    "info": "ساحرة ماء من العائلة الملكية",
+    "image": "images/anime/a37.svg"
+  },
+  {
+    "id": "a38",
+    "nameAr": "يامي سوكيهيرو",
+    "nameEn": "Yami Sukehiro",
+    "series": "blackclover",
+    "seriesAr": "بلاك كلوفر",
+    "rating": 91,
+    "info": "قائد فرسان الثور الأسود",
+    "image": "images/anime/a38.svg"
+  },
+  {
+    "id": "a39",
+    "nameAr": "جوليوس نوفاكرونو",
+    "nameEn": "Julius Novachrono",
+    "series": "blackclover",
+    "seriesAr": "بلاك كلوفر",
+    "rating": 92,
+    "info": "ملك السحرة",
+    "image": "images/anime/a39.svg"
+  },
+  {
+    "id": "a40",
+    "nameAr": "ميريوليونا فيرميليون",
+    "nameEn": "Mereoleona Vermillion",
+    "series": "blackclover",
+    "seriesAr": "بلاك كلوفر",
+    "rating": 88,
+    "info": "قائدة الأسود القرمزية",
+    "image": "images/anime/a40.svg"
+  }
+]
